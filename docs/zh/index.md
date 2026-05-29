@@ -1,6 +1,6 @@
 ---
 title: PakePlus官网
-titleTemplate: 网站秒变桌面应用和手机应用 | 开源免费
+titleTemplate: 网站秒变桌面应用和手机应用
 layout: home
 
 hero:
@@ -22,8 +22,8 @@ hero:
           link: /zh/download/
 
 features:
-    - title: 开源免费
-      details: PakePlus 是开源免费的，你可以在 GitHub 上找到它的源代码
+    - title: 开源项目
+      details: PakePlus 是开源项目，你可以在 GitHub 上找到它的源代码
       icon: 🐙
     - title: 跨平台
       details: Windows/macOS/Linux/Android/iOS免签/统信等系统全支持
